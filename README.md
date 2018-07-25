@@ -1,7 +1,7 @@
 # color-game
 RGB Color Guessing Game
 
-*This small project is created for making practice of DOM Selectors and JS Functions and CSS skills.
+*This small project is created for making practice of DOM Selectors, JS Functions and CSS skills.
 *HTML, CSS and JS were used as technologies. 
 
 *What are the functionalities?
